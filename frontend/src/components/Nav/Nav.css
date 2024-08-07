@@ -1,0 +1,29 @@
+/* Nav.css */
+
+.home-u1 {
+    display: flex;
+    justify-content: center; /* Center the nav items */
+    list-style: none; /* Remove bullet points */
+    background-color: #282c34; /* Background color for the nav */
+    padding: 20px; /* Padding around the nav */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow effect */
+  }
+  
+  .home-11 {
+    margin: 0 20px; /* Margin between nav items */
+  }
+  
+  .home-11 h1 {
+    color: #61dafb; /* Color for the text */
+    font-size: 1.5rem; /* Font size */
+    font-family: 'Arial', sans-serif; /* Font family */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  .home-11 h1:hover {
+    color: #ffffff; /* Change color on hover */
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5); /* Glow effect on hover */
+  }
+  
